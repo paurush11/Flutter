@@ -1,4 +1,4 @@
-# tName_card app
+# Name_card app
 
 A new Flutter application that deals with my business card
 
